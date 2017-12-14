@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="modelGry.cpp" />
+    <ClCompile Include="wyswietlanie.cpp" />
+    <ClCompile Include="wczytywanie.cpp" />
+    <ClCompile Include="aktualizacje.cpp" />
+    <ClCompile Include="odswiezanie_i_zdarzenie_zmiany_zycia.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="modelGry.h" />
+    <ClInclude Include="main.h" />
+    <ClInclude Include="indeksy_grafik.h" />
+    <ClInclude Include="aktualizacje.h" />
+    <ClInclude Include="wczytywanie.h" />
+    <ClInclude Include="wyswietlanie.h" />
+    <ClInclude Include="odswiezanie_i_zdarzenie_zmiany_zycia.h" />
+  </ItemGroup>
+</Project>
