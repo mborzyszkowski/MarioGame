@@ -228,7 +228,7 @@ int main(int argc, char **argv) {
 
 	// zwalnianie pamiecie i wyjscie z programu
 	for (int i = 0; i < OKNO_ELEM_NUM; i++)
-		SDL_FreeSurface(elementy_planszy[i]);
+	SDL_FreeSurface(elementy_planszy[i]);
 	SDL_FreeSurface(powierzchnia_okna);
 	SDL_FreeSurface(powierzchnia_tla);
 	SDL_FreeSurface(moneta_grafika);

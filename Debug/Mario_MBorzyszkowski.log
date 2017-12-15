@@ -1,25 +1,46 @@
-﻿  Mario_MBorzyszkowski.vcxproj -> D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\Debug\Mario_MBorzyszkowski.exe
-  Mario_MBorzyszkowski.vcxproj -> D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\Debug\Mario_MBorzyszkowski.pdb (Full PDB)
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\sdl\winlib15\concrt140.dll
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\sdl\winlib15\SDL2.dll
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\sdl\winlib15\vccorlib140.dll
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\sdl\winlib15\vcruntime140.dll
+﻿  aktualizacje.cpp
+c:\jobs\github\mariogame\aktualizacje.cpp(253): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\jobs\github\mariogame\aktualizacje.cpp(275): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\jobs\github\mariogame\aktualizacje.cpp(283): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\jobs\github\mariogame\aktualizacje.cpp(300): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\jobs\github\mariogame\aktualizacje.cpp(309): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\jobs\github\mariogame\aktualizacje.cpp(310): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\jobs\github\mariogame\aktualizacje.cpp(311): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\jobs\github\mariogame\aktualizacje.cpp(312): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\jobs\github\mariogame\aktualizacje.cpp(313): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\jobs\github\mariogame\aktualizacje.cpp(314): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\jobs\github\mariogame\aktualizacje.cpp(316): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\jobs\github\mariogame\aktualizacje.cpp(429): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\jobs\github\mariogame\aktualizacje.cpp(433): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  wyswietlanie.cpp
+c:\jobs\github\mariogame\wyswietlanie.cpp(79): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\jobs\github\mariogame\wyswietlanie.cpp(76): warning C4101: 'czas_str': unreferenced local variable
+  wczytywanie.cpp
+  odswiezanie_i_zdarzenie_zmiany_zycia.cpp
+  main.cpp
+  Generating Code...
+  Mario_MBorzyszkowski.vcxproj -> C:\Jobs\github\MarioGame\Debug\Mario_MBorzyszkowski.exe
+  C:\Jobs\github\MarioGame\sdl\winlib15\concrt140.dll
+  C:\Jobs\github\MarioGame\sdl\winlib15\SDL2.dll
+  C:\Jobs\github\MarioGame\sdl\winlib15\vccorlib140.dll
+  C:\Jobs\github\MarioGame\sdl\winlib15\vcruntime140.dll
           4 file(s) copied.
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\cs8x8.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\LiterkiCyferki.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\LiterkiCyferki2.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\MarioChodzi1.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\MarioChodzi2.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\MarioChodzi3.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\MarioJump.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\MarioStojacy.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\Moneta.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\MonetaCegla.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\Platforma.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\Podstawa.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\Przeszkoda.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\wrogChodzi1.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\wrogChodzi2.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\wrogChodzi3.bmp
-  D:\cpp_programy\MB_Mario\Mario_MBorzyszkowski\obrazki\wrogStojacy.bmp
-         17 file(s) copied.
+  C:\Jobs\github\MarioGame\obrazki\LiterkiCyferki.bmp
+  C:\Jobs\github\MarioGame\obrazki\MarioChodzi1.bmp
+  C:\Jobs\github\MarioGame\obrazki\MarioChodzi2.bmp
+  C:\Jobs\github\MarioGame\obrazki\MarioChodzi3.bmp
+  C:\Jobs\github\MarioGame\obrazki\MarioJump.bmp
+  C:\Jobs\github\MarioGame\obrazki\MarioStojacy.bmp
+  C:\Jobs\github\MarioGame\obrazki\Moneta.bmp
+  C:\Jobs\github\MarioGame\obrazki\MonetaCegla.bmp
+  C:\Jobs\github\MarioGame\obrazki\Platforma.bmp
+  C:\Jobs\github\MarioGame\obrazki\Podstawa.bmp
+  C:\Jobs\github\MarioGame\obrazki\Przeszkoda.bmp
+  C:\Jobs\github\MarioGame\obrazki\wrogChodzi1.bmp
+  C:\Jobs\github\MarioGame\obrazki\wrogChodzi2.bmp
+  C:\Jobs\github\MarioGame\obrazki\wrogChodzi3.bmp
+  C:\Jobs\github\MarioGame\obrazki\wrogStojacy.bmp
+         15 file(s) copied.
