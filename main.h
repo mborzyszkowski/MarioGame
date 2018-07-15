@@ -20,7 +20,7 @@
 #define WYSOKOSC_OKNA	600	                  // wysokosc okna w pikselach
 #define OKNO_PREDKOSC_PRZESUWANIA 3           // predkosc przeuwania okna przy ruchach Mario
 
-#define LICZBA_FPS 30                // liczba klatek na sekunde
+#define LICZBA_FPS 60                // liczba klatek na sekunde
 #define POCZATKOWA_LICZBA_ZYC  3     // poczatkowa liczba zyc Mario w grze
 
 // predkosc poruszania sie w czasie jednej klatki
